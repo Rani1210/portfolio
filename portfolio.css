@@ -82,8 +82,8 @@ h4{
     background-color:#191919;
 }
 .about img{
-    height:600px;
-    width:430px;
+    height:540px;
+    width:410px;
     border-radius:10%;
 }
 
@@ -198,11 +198,11 @@ h6{
     padding:20px;
     text-align:center;
     border-radius:5px;
-    background:blue;
+    background:#191919;
     box-shadow:0px 5px 10px rgpa(0,0,0,0.2);
   }
   .box h6{
-    color:white;
+    color:#fcfc;
     padding:10px 0;
     font-size:20px;
 
